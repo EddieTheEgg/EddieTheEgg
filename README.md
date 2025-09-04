@@ -1,9 +1,7 @@
 # Hi, I'm Edison Kwok 👋
 
 ### 💻 Full-Stack Developer | AI Enthusiast  
-I'm a second-year **Computer Science & Business Administration** student at **Northeastern University** passionate about building scalable web/mobile applications and integrating **AI** into real-world solutions.  
-
-I also **co-founded Shiny Star Games**, the studio behind the popular **Tapping Legends** series on Roblox, which reached **150M+ visits** and 27K+ peak concurrent players!
+I’m a second-year Computer Science & Business Administration student at Northeastern University, specializing in full-stack development and AI integration. I contribute to FinishLine, an open-source project with Northeastern’s Electric Racing Team, and support Disrupt’s Tech Team by leading web development initiatives such as the club’s landing page.
 
 ---
 
@@ -37,15 +35,14 @@ I also **co-founded Shiny Star Games**, the studio behind the popular **Tapping 
 ---
 
 ## 📊 GitHub Stats
-![Edison's GitHub stats](https://github-readme-stats.vercel.app/api?username=EddieTheEgg&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EddieTheEgg&layout=compact&theme=default)
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR-LINKEDIN-URL)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edison-kwok8/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EddieTheEgg)
 
-📧 Email: **kwok.e@northeastern.edu**
+📧 Email: **kwok.e@northeastern.edu** or **edditheeggy@gmail.com**
 
 ---
