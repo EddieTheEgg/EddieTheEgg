@@ -23,9 +23,9 @@ I’m a second-year Computer Science & Business Administration student at Northe
 ---
 
 ## 📌 Featured Projects
-- **[Finance Friend](#)** – Full-stack mobile app for personal finance tracking with AI-powered insights.  
-- **[NU Hall](#)** – Meal planning web app with real-time nutritional tracking.  
-- **[Uno Game](#)** – Java-based terminal game with CPU opponent simulation.  
+- **[Finance Friend](https://github.com/EddieTheEgg/FINA-Advisor-App)** – Full-stack mobile app for personal finance tracking with AI-powered insights.  
+- **[NU Hall](https://github.com/EddieTheEgg/NU-Hall)** – Meal planning web app with real-time nutritional tracking.  
+- **[Uno Game](https://github.com/EddieTheEgg/Uno)** – Java-based terminal game with CPU opponent simulation.  
 
 ---
 
