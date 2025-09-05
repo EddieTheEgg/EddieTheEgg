@@ -45,6 +45,6 @@ I’m a second-year Computer Science & Business Administration student at Northe
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edison-kwok8/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EddieTheEgg)
 
-📧 Email: **kwok.e@northeastern.edu** or **edditheeggy@gmail.com**
+📧 Email: **kwok.e@northeastern.edu** or **edison.kwok2@gmail.com**
 
 ---
