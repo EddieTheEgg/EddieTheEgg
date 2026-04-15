@@ -25,7 +25,6 @@ I’m a second-year Computer Science & Business Administration student at Northe
 ## 📌 Featured Projects
 - **[Finance Friend](https://github.com/EddieTheEgg/FINA-Advisor-App)** – Full-stack mobile app for personal finance tracking with AI-powered insights.  
 - **[NU Hall](https://github.com/EddieTheEgg/NU-Hall)** – Meal planning web app with real-time nutritional tracking.  
-- **[Uno Game](https://github.com/EddieTheEgg/Uno)** – Java-based terminal game with CPU opponent simulation.  
 
 ---
 
@@ -33,11 +32,6 @@ I’m a second-year Computer Science & Business Administration student at Northe
 - **Co-Founder of Shiny Star Games** – Created the **Tapping Legends** series on Roblox (150M+ visits, $100K+ revenue).  
 - **Northeastern Electric Racing Team** – Redesigned finance dashboard for better efficiency.  
 - **Teaching Assistant** – Supporting 100+ students in programming and design concepts.  
-
----
-
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EddieTheEgg&layout=compact&theme=default)
 
 ---
 
