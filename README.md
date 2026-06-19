@@ -1,7 +1,7 @@
 # Hey, I'm Edison Kwok 👋
 
 ### 💻 Full-Stack Developer | AI Enthusiast  
-I’m a second-year Computer Science & Business Administration student at Northeastern University, specializing in full-stack development and AI integration. I contribute to FinishLine, an open-source project with Northeastern’s Electric Racing Team, and support Disrupt’s Tech Team by leading web development initiatives such as the club’s landing page. Currently on a co-op full time role as a Product Engineer at Yuzu Health in NYC!
+I’m a third-year Computer Science & Business Administration student at Northeastern University, specializing in full-stack development and AI integration. I contribute to FinishLine, an open-source project with Northeastern’s Electric Racing Team, and support Disrupt’s Tech Team by leading web development initiatives such as the club’s landing page. Currently on a co-op full time role as a Fullstack Product Engineer at Yuzu Health in NYC!
 
 ---
 
